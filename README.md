@@ -1,1 +1,3 @@
-# AAA_instruments_extra
+# AAA_HW_instruments
+
+Домашнее задание по инструментам тестирования.
