@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.7.4, pytest-7.2.0, pluggy-0.13.0 -- /opt/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/saniya/AAA_instruments_extra
+plugins: arraydiff-0.3, remotedata-0.3.2, doctestplus-0.4.0, openfiles-0.4.0, cov-4.0.0
+collecting ... collected 5 items
+
+issue3/test_one_hot_encoder.py::TestFitTransform::test_empty PASSED      [ 20%]
+issue3/test_one_hot_encoder.py::TestFitTransform::test_error_raise PASSED [ 40%]
+issue3/test_one_hot_encoder.py::TestFitTransform::test_moscow PASSED     [ 60%]
+issue3/test_one_hot_encoder.py::TestFitTransform::test_not_equal PASSED  [ 80%]
+issue3/test_one_hot_encoder.py::TestFitTransform::test_not_in PASSED     [100%]
+
+============================== 5 passed in 0.03s ===============================

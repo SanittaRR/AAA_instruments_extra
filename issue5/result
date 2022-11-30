@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.7.4, pytest-7.2.0, pluggy-0.13.0 -- /opt/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/saniya/AAA_instruments_extra
+plugins: arraydiff-0.3, remotedata-0.3.2, doctestplus-0.4.0, openfiles-0.4.0, cov-4.0.0
+collecting ... collected 4 items
+
+issue5/test_what_is_year_now.py::test_get_cases1 PASSED                  [ 25%]
+issue5/test_what_is_year_now.py::test_get_cases2 PASSED                  [ 50%]
+issue5/test_what_is_year_now.py::test_get_cases3 PASSED                  [ 75%]
+issue5/test_what_is_year_now.py::test_raise_type_error PASSED            [100%]
+
+============================== 4 passed in 10.18s ==============================
